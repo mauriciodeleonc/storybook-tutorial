@@ -12,6 +12,7 @@ Standard.args = {
   size: "large",
   username: "Tom Coleman",
   src: "https://avatars2.githubusercontent.com/u/132554",
+  name: 'no'
 };
 
 export const Sizes = (args) => (
